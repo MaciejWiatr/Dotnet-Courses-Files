@@ -1,0 +1,16 @@
+C:\Users\macie\Desktop\dotnet-projects\FirstProject\bin\Release\net5.0\FirstProject.exe
+C:\Users\macie\Desktop\dotnet-projects\FirstProject\bin\Release\net5.0\FirstProject.deps.json
+C:\Users\macie\Desktop\dotnet-projects\FirstProject\bin\Release\net5.0\FirstProject.runtimeconfig.json
+C:\Users\macie\Desktop\dotnet-projects\FirstProject\bin\Release\net5.0\FirstProject.runtimeconfig.dev.json
+C:\Users\macie\Desktop\dotnet-projects\FirstProject\bin\Release\net5.0\FirstProject.dll
+C:\Users\macie\Desktop\dotnet-projects\FirstProject\bin\Release\net5.0\ref\FirstProject.dll
+C:\Users\macie\Desktop\dotnet-projects\FirstProject\bin\Release\net5.0\FirstProject.pdb
+C:\Users\macie\Desktop\dotnet-projects\FirstProject\obj\Release\net5.0\FirstProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macie\Desktop\dotnet-projects\FirstProject\obj\Release\net5.0\FirstProject.AssemblyInfoInputs.cache
+C:\Users\macie\Desktop\dotnet-projects\FirstProject\obj\Release\net5.0\FirstProject.AssemblyInfo.cs
+C:\Users\macie\Desktop\dotnet-projects\FirstProject\obj\Release\net5.0\FirstProject.csproj.CoreCompileInputs.cache
+C:\Users\macie\Desktop\dotnet-projects\FirstProject\obj\Release\net5.0\FirstProject.dll
+C:\Users\macie\Desktop\dotnet-projects\FirstProject\obj\Release\net5.0\ref\FirstProject.dll
+C:\Users\macie\Desktop\dotnet-projects\FirstProject\obj\Release\net5.0\FirstProject.pdb
+C:\Users\macie\Desktop\dotnet-projects\FirstProject\obj\Release\net5.0\FirstProject.genruntimeconfig.cache
+C:\Users\macie\Desktop\dotnet-projects\FirstProject\obj\Release\net5.0\FirstProject.csprojAssemblyReference.cache
