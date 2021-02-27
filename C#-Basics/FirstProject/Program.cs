@@ -30,7 +30,7 @@ namespace FirstProject
         }
         static void Main(string[] args)
         {
-            List<Person> employees = GetEmployees();
+            var employees = GetEmployees();
             List<Person> youngEmployees = employees.Where(e => e.DateOfBirth > new DateTime(2000,1,1)).ToList();
             Person bob = youngEmployees.FirstOrDefault(e => e.FirstName == "Bob");
             DisplayList(youngEmployees);
