@@ -6,14 +6,17 @@ using System.Threading.Tasks;
 
 namespace FirstProject
 {
-    class PowerPointFile:File
+    class PowerPointFile:IFile
     {
+        public string FileName {get;set;}
+        public int Size { get; set; }
+        public DateTime CreatedOn { get; set; }
         public void Present()
         {
-            Console.WriteLine($"{Filename} presenting..");
+            Console.WriteLine($"{FileName} presenting..");
         }
 
-        public override void compress()
+        public void Compress()
         {
             Console.WriteLine("Compressing PPoint");
         }

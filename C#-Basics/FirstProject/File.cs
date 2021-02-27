@@ -6,13 +6,11 @@ using System.Threading.Tasks;
 
 namespace FirstProject
 {
-    abstract class File
+    interface IFile
     {
-        public string Filename { get; set; }
-        public int Size { get; set; }
-        public DateTime CreatedOn { get; set; }
-        protected string ProtectedProp {get;set;}
-        private string PrivatePrfop {get;set;}
-        public abstract void compress();
+        string FileName { get; set; }
+        int Size { get; set; }
+        DateTime CreatedOn { get; set; }
+        void Compress();
     }
 }

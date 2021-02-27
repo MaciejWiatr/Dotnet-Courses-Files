@@ -6,15 +6,18 @@ using System.Threading.Tasks;
 
 namespace FirstProject
 {
-    class ExcelFile:File
+    class ExcelFile: IFile
     {
+        public string FileName {get;set;}
+        public int Size { get; set; }
+        public DateTime CreatedOn { get; set; }
+
         public void GenerateReport()
         {   
-            string prop = ProtectedProp;
-            Console.WriteLine($"{Filename} report..");
+            Console.WriteLine($"{FileName} report..");
         }
 
-        public override void compress()
+        public void Compress()
         {
             Console.WriteLine("Compressing Excel file");
         }

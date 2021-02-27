@@ -6,14 +6,18 @@ using System.Threading.Tasks;
 
 namespace FirstProject
 {
-    class WordDocumentFile:File
+    class WordDocumentFile:IFile
     {
+
+        public string FileName {get;set;}
+        public int Size { get; set; }
+        public DateTime CreatedOn { get; set; }
         public void Print()
         {
-            Console.WriteLine($"{Filename} print..");
+            Console.WriteLine($"{FileName} print..");
         }
 
-        public override void compress()
+        public void Compress()
         {
             Console.WriteLine("Compressing Word Doc");
         }
