@@ -13,11 +13,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Second Project", "Second Pr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TryParseExercise", "TryParseExercise\TryParseExercise.csproj", "{8A38950F-6D33-4078-9E35-5EF30F209BAD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomEqualsRef", "CustomEqualsRef\CustomEqualsRef.csproj", "{C950D2E1-4D92-4CA0-8A74-02095D0AB5A3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomEqualsRef", "CustomEqualsRef\CustomEqualsRef.csproj", "{C950D2E1-4D92-4CA0-8A74-02095D0AB5A3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstAndReadonly", "ConstAndReadonly\ConstAndReadonly.csproj", "{4FFD1E12-5E00-4836-B8EB-EF20BB96B879}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConstAndReadonly", "ConstAndReadonly\ConstAndReadonly.csproj", "{4FFD1E12-5E00-4836-B8EB-EF20BB96B879}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kata", "Kata\Kata.csproj", "{0A4BF420-DEAF-48CE-8B73-08565476D22E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kata", "Kata\Kata.csproj", "{0A4BF420-DEAF-48CE-8B73-08565476D22E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kata POTUS", "Kata POTUS\Kata POTUS.csproj", "{C08DEA34-929C-4CE1-BAC0-111CCAF6B0E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextFiles", "TextFiles\TextFiles.csproj", "{ABF6D456-4850-44BF-8AF2-23502ABF15B6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -125,6 +129,30 @@ Global
 		{0A4BF420-DEAF-48CE-8B73-08565476D22E}.Release|x64.Build.0 = Release|Any CPU
 		{0A4BF420-DEAF-48CE-8B73-08565476D22E}.Release|x86.ActiveCfg = Release|Any CPU
 		{0A4BF420-DEAF-48CE-8B73-08565476D22E}.Release|x86.Build.0 = Release|Any CPU
+		{C08DEA34-929C-4CE1-BAC0-111CCAF6B0E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C08DEA34-929C-4CE1-BAC0-111CCAF6B0E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C08DEA34-929C-4CE1-BAC0-111CCAF6B0E1}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{C08DEA34-929C-4CE1-BAC0-111CCAF6B0E1}.Debug|x64.Build.0 = Debug|Any CPU
+		{C08DEA34-929C-4CE1-BAC0-111CCAF6B0E1}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C08DEA34-929C-4CE1-BAC0-111CCAF6B0E1}.Debug|x86.Build.0 = Debug|Any CPU
+		{C08DEA34-929C-4CE1-BAC0-111CCAF6B0E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C08DEA34-929C-4CE1-BAC0-111CCAF6B0E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C08DEA34-929C-4CE1-BAC0-111CCAF6B0E1}.Release|x64.ActiveCfg = Release|Any CPU
+		{C08DEA34-929C-4CE1-BAC0-111CCAF6B0E1}.Release|x64.Build.0 = Release|Any CPU
+		{C08DEA34-929C-4CE1-BAC0-111CCAF6B0E1}.Release|x86.ActiveCfg = Release|Any CPU
+		{C08DEA34-929C-4CE1-BAC0-111CCAF6B0E1}.Release|x86.Build.0 = Release|Any CPU
+		{ABF6D456-4850-44BF-8AF2-23502ABF15B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABF6D456-4850-44BF-8AF2-23502ABF15B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABF6D456-4850-44BF-8AF2-23502ABF15B6}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{ABF6D456-4850-44BF-8AF2-23502ABF15B6}.Debug|x64.Build.0 = Debug|Any CPU
+		{ABF6D456-4850-44BF-8AF2-23502ABF15B6}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{ABF6D456-4850-44BF-8AF2-23502ABF15B6}.Debug|x86.Build.0 = Debug|Any CPU
+		{ABF6D456-4850-44BF-8AF2-23502ABF15B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABF6D456-4850-44BF-8AF2-23502ABF15B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABF6D456-4850-44BF-8AF2-23502ABF15B6}.Release|x64.ActiveCfg = Release|Any CPU
+		{ABF6D456-4850-44BF-8AF2-23502ABF15B6}.Release|x64.Build.0 = Release|Any CPU
+		{ABF6D456-4850-44BF-8AF2-23502ABF15B6}.Release|x86.ActiveCfg = Release|Any CPU
+		{ABF6D456-4850-44BF-8AF2-23502ABF15B6}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
