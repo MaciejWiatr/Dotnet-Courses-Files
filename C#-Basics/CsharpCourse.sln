@@ -19,9 +19,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConstAndReadonly", "ConstAn
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kata", "Kata\Kata.csproj", "{0A4BF420-DEAF-48CE-8B73-08565476D22E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kata POTUS", "Kata POTUS\Kata POTUS.csproj", "{C08DEA34-929C-4CE1-BAC0-111CCAF6B0E1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kata POTUS", "Kata POTUS\Kata POTUS.csproj", "{C08DEA34-929C-4CE1-BAC0-111CCAF6B0E1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextFiles", "TextFiles\TextFiles.csproj", "{ABF6D456-4850-44BF-8AF2-23502ABF15B6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TextFiles", "TextFiles\TextFiles.csproj", "{ABF6D456-4850-44BF-8AF2-23502ABF15B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSON Serialization", "JSON Serialization\JSON Serialization.csproj", "{F534FC98-CBD5-468F-9BE8-F836A2F0F7EC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -153,6 +155,18 @@ Global
 		{ABF6D456-4850-44BF-8AF2-23502ABF15B6}.Release|x64.Build.0 = Release|Any CPU
 		{ABF6D456-4850-44BF-8AF2-23502ABF15B6}.Release|x86.ActiveCfg = Release|Any CPU
 		{ABF6D456-4850-44BF-8AF2-23502ABF15B6}.Release|x86.Build.0 = Release|Any CPU
+		{F534FC98-CBD5-468F-9BE8-F836A2F0F7EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F534FC98-CBD5-468F-9BE8-F836A2F0F7EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F534FC98-CBD5-468F-9BE8-F836A2F0F7EC}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{F534FC98-CBD5-468F-9BE8-F836A2F0F7EC}.Debug|x64.Build.0 = Debug|Any CPU
+		{F534FC98-CBD5-468F-9BE8-F836A2F0F7EC}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F534FC98-CBD5-468F-9BE8-F836A2F0F7EC}.Debug|x86.Build.0 = Debug|Any CPU
+		{F534FC98-CBD5-468F-9BE8-F836A2F0F7EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F534FC98-CBD5-468F-9BE8-F836A2F0F7EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F534FC98-CBD5-468F-9BE8-F836A2F0F7EC}.Release|x64.ActiveCfg = Release|Any CPU
+		{F534FC98-CBD5-468F-9BE8-F836A2F0F7EC}.Release|x64.Build.0 = Release|Any CPU
+		{F534FC98-CBD5-468F-9BE8-F836A2F0F7EC}.Release|x86.ActiveCfg = Release|Any CPU
+		{F534FC98-CBD5-468F-9BE8-F836A2F0F7EC}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

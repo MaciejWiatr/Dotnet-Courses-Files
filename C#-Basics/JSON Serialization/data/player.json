@@ -1,0 +1,15 @@
+﻿{
+  "Name": "Mario",
+  "Level": 1,
+  "HealthPoints": 100,
+  "Statistics": [
+    {
+      "Name": "Strength",
+      "Points": 10
+    },
+    {
+      "Name": "Intelligence",
+      "Points": 20
+    }
+  ]
+}
