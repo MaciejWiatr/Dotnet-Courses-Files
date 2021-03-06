@@ -1,0 +1,5 @@
+﻿Hi {name} 
+
+We got your purchase request at {dateTime} 
+
+You can track your order at http://somelink.com/{orderNumber}
